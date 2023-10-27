@@ -69,7 +69,6 @@
     "node-html-parser": "^6.1.10",
     "picocolors": "^1.0.0",
     "prettier": "^2.8.8",
-    "sharp": "^0.32.6",
     "ts-dedent": "^2.2.0",
     "xml-formatter": "^3.5.0"
   },
